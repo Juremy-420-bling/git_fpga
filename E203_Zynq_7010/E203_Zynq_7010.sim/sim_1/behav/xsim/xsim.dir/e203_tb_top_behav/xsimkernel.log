@@ -1,0 +1,4 @@
+Running: xsim.dir/e203_tb_top_behav/xsimk.exe -simmode gui -wdb e203_tb_top_behav.wdb -simrunnum 0 -socket 59086
+Design successfully loaded
+Design Loading Memory Usage: 17444 KB (Peak: 17444 KB)
+Design Loading CPU Usage: 31 ms
